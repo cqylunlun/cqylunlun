@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-🌐 I am **Qiyu Chen**, a Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by [Prof. Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
+🌐 [Welcome to my homepage!](https://cqylunlun.github.io/) I am **Qiyu Chen**, a Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by [Prof. Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
 
 🔍 My research focuses on **industrial visual anomaly detection**, especially anomaly data synthesis, zero-shot anomaly detection, semantic segmentation, multimodal large models, and robust computer vision systems for industrial inspection.
 
@@ -8,10 +8,6 @@
 
 | <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api?username=cqylunlun&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" alt="Qiyu's github stats" /></a> | <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api/top-langs/?username=cqylunlun&layout=compact&theme=gotham&hide_border=true" /></a> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-## Resume
-
-[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/docs/CV_Qiyu_Chen_jake.pdf)
 
 ## News
 

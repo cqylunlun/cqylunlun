@@ -6,7 +6,7 @@
 
 😊 Please feel free to contact me if you are interested in research collaboration or academic discussion.
 
-| <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api?username=cqylunlun&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" alt="Qiyu's github stats" /></a> | <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api/top-langs/?username=cqylunlun&layout=compact&theme=gotham&hide_border=true" /></a> |
+| <a href="https://cqylunlun.github.io/"><img align="center" src="https://gh-stats-api.vercel.app/api?username=cqylunlun&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" alt="Qiyu's github stats" /></a> | <a href="https://cqylunlun.github.io/"><img align="center" src="https://gh-stats-api.vercel.app/api/top-langs/?username=cqylunlun&layout=compact&theme=gotham&hide_border=true" /></a> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## News

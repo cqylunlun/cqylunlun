@@ -1,13 +1,13 @@
 ### Hi there ! 👋
 
-| <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api?username=cqylunlun&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" alt="Qiyu's github stats" /></a> | <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api/top-langs/?username=cqylunlun&layout=compact&theme=gotham&hide_border=true" /></a> |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 🌐 I am **Qiyu Chen**, a Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by [Prof. Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
 
 🔍 My research focuses on **industrial visual anomaly detection**, especially anomaly data synthesis, zero-shot anomaly detection, semantic segmentation, multimodal large models, and robust computer vision systems for industrial inspection.
 
 😊 Please feel free to contact me if you are interested in research collaboration or academic discussion.
+
+| <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api?username=cqylunlun&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" alt="Qiyu's github stats" /></a> | <a href="https://github.com/cqylunlun/GLASS/issues?q=is%3Aissue%20state%3Aclosed"><img align="center" src="https://gh-stats-api.vercel.app/api/top-langs/?username=cqylunlun&layout=compact&theme=gotham&hide_border=true" /></a> |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Resume
 

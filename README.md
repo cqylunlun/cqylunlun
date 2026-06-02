@@ -11,7 +11,7 @@
 
 ## News
 
-- *2026.03*: 🎉🎉 Our paper [**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**](https://arxiv.org/abs/2508.03447) [[Code]](https://github.com/cqylunlun/CoPS) was accepted by **CVPR-F**.
+- *2026.03*: 🎉🎉 Our paper [**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_CoPS_Conditional_Prompt_Synthesis_for_Zero-Shot_Anomaly_Detection_CVPRF_2026_paper.html) [[Code]](https://github.com/cqylunlun/CoPS) was accepted by **CVPR-F**.
 - *2026.01*: 🎉🎉 Our paper [**MRAD: Zero-Shot Anomaly Detection With Memory-Driven Retrieval**](https://openreview.net/forum?id=TQkFiW3AEX) [[Code]](https://github.com/CROVO1026/MRAD) was accepted by **ICLR**.
 - *2025.11*: 🎉🎉 Our paper [**TDSS: Task Dynamic-Synergistic Skill Adaptation for Efficient and Scalable Multi-Task Learning**](https://doi.org/10.1609/aaai.v40i14.38172) was accepted by **AAAI**.
 - *2025.11*: 🎉🎉 Our paper [**Parameter-, Memory-, Time-Efficient Multi-Task Dense Vision Adaptation**](https://doi.org/10.1609/aaai.v40i14.38171) was accepted by **AAAI**.
